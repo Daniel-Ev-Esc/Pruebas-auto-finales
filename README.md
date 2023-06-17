@@ -7,3 +7,7 @@ Repositorio para el código de pruebas automatizadas del proyecto Welness-Monkis
 
 05/06/2023: Pruebas Finales: Se aplicaron las pruebas a la rama dev del repositorio Wellness Monkis: https://github.com/patricio-mendoza/MonkisWellness
             Respositorio Pruebas Finales: https://github.com/Daniel-Ev-Esc/Pruebas-auto-finales
+
+Liga a la planeación de proyecto (JIRA):https://a008312892.atlassian.net/jira/software/projects/WM/boards/1/reports 
+
+Liga al video con mejor calidad: https://drive.google.com/file/d/1u2Me10idIVSJy46JAsN38OXNIgb1MBgK/view?usp=sharing
